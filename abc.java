@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class abc {
     
     // Your program begins with a call to main()
     public static void main(String[] args)
